@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: AutoPoly Menu Translator
- * Plugin URI: https://abdullahwp.com
+ * Plugin URI: https://abdullahwp.com/autopoly-menu-translator/
  * Description: Translate and duplicate Polylang navigation menus with Chrome's on-device Translator API while preserving hierarchy.
  * Version: 1.1.0
  * Author: AbdullahWP
